@@ -1,0 +1,9 @@
+{
+    "name": "fire-armor",
+    "version": "0.1.0",
+    "title": "Fire Armour",
+    "author": "williamhuynhjackson@gmail.com",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0"],
+    "description": "This mod adds in fire armour"
+}
